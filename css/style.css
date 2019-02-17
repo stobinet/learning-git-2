@@ -1,0 +1,14 @@
+/* General */
+
+*, *::before, *::after {
+    box-sizing: border-box; }
+
+body {
+    margin: 0;
+	font-size: 18px;
+	line-height: 1.7;
+	font-family: 'Inconsolata', monospace;
+	background: #fff;
+    color: #2c2c54;
+    text-align: center;
+    margin-top: 100px; }
